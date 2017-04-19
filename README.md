@@ -1,9 +1,14 @@
-# api documentation for  [ionicons (v3.0.0)](http://ionicons.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-ionicons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ionicons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ionicons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ionicons)
+# npmdoc-ionicons
+
+#### api documentation for  [ionicons (v3.0.0)](http://ionicons.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-ionicons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ionicons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ionicons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ionicons)
+
 #### Premium icons for Ionic.
 
-[![NPM](https://nodei.co/npm/ionicons.png?downloads=true)](https://www.npmjs.com/package/ionicons)
+[![NPM](https://nodei.co/npm/ionicons.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ionicons)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ionicons/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ionicons_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ionicons/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ionicons/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ionicons/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ionicons/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ionicons/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ionicons/build/screenCapture.npmPackageListing.svg)
 
@@ -56,29 +61,23 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "adamdbradley",
-            "email": "hi+adam@ionicframework.com"
+            "name": "adamdbradley"
         },
         {
-            "name": "brandyscarney",
-            "email": "brandy@ionic.io"
+            "name": "brandyscarney"
         },
         {
-            "name": "drifty",
-            "email": "max@drifty.com"
+            "name": "drifty"
         },
         {
-            "name": "jthoms1",
-            "email": "jthoms1@gmail.com"
+            "name": "jthoms1"
         },
         {
-            "name": "tlancina",
-            "email": "tim@ionic.io"
+            "name": "tlancina"
         }
     ],
     "name": "ionicons",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/driftyco/ionicons.git"
@@ -87,16 +86,6 @@
     "version": "3.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ionicons](#apidoc.module.ionicons)
-
-
-
-# <a name="apidoc.module.ionicons"></a>[module ionicons](#apidoc.module.ionicons)
 
 
 
