@@ -1,6 +1,6 @@
 # npmdoc-ionicons
 
-#### api documentation for  [ionicons (v3.0.0)](http://ionicons.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-ionicons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ionicons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ionicons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ionicons)
+#### basic api documentation for  [ionicons (v3.0.0)](http://ionicons.com/)  [![npm package](https://img.shields.io/npm/v/npmdoc-ionicons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ionicons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ionicons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ionicons)
 
 #### Premium icons for Ionic.
 
@@ -83,7 +83,8 @@
         "url": "git+https://github.com/driftyco/ionicons.git"
     },
     "scripts": {},
-    "version": "3.0.0"
+    "version": "3.0.0",
+    "bin": {}
 }
 ```
 
